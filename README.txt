@@ -15,7 +15,7 @@ Application is called NikhilBookStore
 1330 Successful Debugging
 
 1332 Bootstrap
-1333 Dowload the bootstrap them called Yeti
+1333 Dowload the bootstrap them called Sandstone
 
 1335 replasing the existing bootsrap file with new one
 1336 change the file name in _layout.cshtml boostrap.min.cs to bootstrap.css
