@@ -30,3 +30,9 @@ Application is called NikhilBookStore
 
 2022-10-31 1208
 added the new bootstrap them called Slate
+
+1230
+add 3rd party tools and link in layout.cshtml
+1253
+add Dropdown menu 
+replace name with the contrnt managment 
