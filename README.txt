@@ -36,3 +36,10 @@ add 3rd party tools and link in layout.cshtml
 1253
 add Dropdown menu 
 replace name with the contrnt managment 
+
+2022-11-03
+1201
+Add three new project to the application
+
+1202
+commite the project
