@@ -52,3 +52,12 @@ intall the pakage
 
 1206
 commite the project
+
+1451
+Delete the migration Folder
+
+1452
+modify the namespace to reflect the project
+delete default Class1.cs
+
+
