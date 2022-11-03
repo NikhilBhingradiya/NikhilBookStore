@@ -60,4 +60,28 @@ Delete the migration Folder
 modify the namespace to reflect the project
 delete default Class1.cs
 
+1630
+Move the model into NikhilBooks Model
+1630
+Modify the error.cshtml
+
+1631
+Add theproject reference in dataaccess and models
+
+Rename the model folder to viewmodels
+
+1632
+modify the starting.cs file
+
+1633
+
+run the application but shows error
+
+1634
+correct the errorviewmodel
+
+1635
+all error are resolve
+ 
+
 
