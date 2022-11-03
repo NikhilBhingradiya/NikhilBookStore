@@ -80,8 +80,31 @@ run the application but shows error
 1634
 correct the errorviewmodel
 
-1635
+1645
 all error are resolve
  
+ 1636 commite the repositry
 
+ 1737
+ create the class in Utility project called SD.cs
+
+ 1738 Modify the properties of class
+ Adding the project reference for main prohject
+
+ 1740
+ Project reference for Data Access 
+
+ 1741
+ Add customers area to in area
+
+
+ 1742 changing the startup.cs file
+
+ 1745
+ editing the Controoler is customer area
+
+ 1750Run the application and it is run successfully
+
+ 1752
+commite and push
 
