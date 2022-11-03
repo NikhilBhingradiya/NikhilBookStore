@@ -42,4 +42,13 @@ replace name with the contrnt managment
 Add three new project to the application
 
 1202
+commite and push the project
+
+1204 
+move the data folder to anothe project 
+
+1205
+intall the pakage
+
+1206
 commite the project
