@@ -122,3 +122,5 @@ Updatte the github repo
 Creating the readme.md file
 commite the repo
 
+04-11-2022
+Finding error while opning repositery in lab pc which three project i was created it will showed empty and catch the error 
