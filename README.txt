@@ -108,3 +108,14 @@ all error are resolve
  1752
 commite and push
 
+2210
+add the admin area in areas
+add the proper view in admin
+
+2214
+Successful running the application
+
+2215
+Updatte the github repo
+
+
