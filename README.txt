@@ -134,3 +134,5 @@ creating the new update
 
 1532
 migration
+
+creating the category.cs 
