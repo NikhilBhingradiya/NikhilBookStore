@@ -141,3 +141,6 @@ creating the category.cs
 
 1755
 creating thr Isp and ip
+
+2022-07*12
+1200
