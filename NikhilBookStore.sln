@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NikhilBookStore", "NikhilBookStore.csproj", "{71A3304E-352A-4C6E-A92B-92EC01A24B3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikhilBook.DataAccess", "..\NikhilBook.DataAccess\NikhilBook.DataAccess.csproj", "{0B87F1F4-6868-4EB5-BF17-DCD4D79A7721}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NikhilBook.DataAccess", "..\NikhilBook.DataAccess\NikhilBook.DataAccess.csproj", "{0B87F1F4-6868-4EB5-BF17-DCD4D79A7721}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikhilBook.Models", "..\NikhilBook.Models\NikhilBook.Models.csproj", "{10676771-58B0-4726-8116-C75ECCE45F9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NikhilBook.Models", "..\NikhilBook.Models\NikhilBook.Models.csproj", "{10676771-58B0-4726-8116-C75ECCE45F9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikhilBook.Utility", "..\NikhilBook.Utility\NikhilBook.Utility.csproj", "{68851168-BEF7-46F7-8643-178011505E27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NikhilBook.Utility", "..\NikhilBook.Utility\NikhilBook.Utility.csproj", "{68851168-BEF7-46F7-8643-178011505E27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
