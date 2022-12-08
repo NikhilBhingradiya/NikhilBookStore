@@ -1,4 +1,5 @@
 ﻿using NikhilBook.DataAccess.Repository.IRepository;
+using NikhilBook.DataAccess.Repository;
 using NikhilBookStore.Models;
 using NikhilBook.Utility;
 using Dapper;

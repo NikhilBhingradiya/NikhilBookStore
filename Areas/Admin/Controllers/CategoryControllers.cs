@@ -5,6 +5,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using NikhilBook.DataAccess.Repository;
+
 
 namespace NikhilBookStore.Areas.Admin.Controllers
 {
@@ -52,7 +54,7 @@ namespace NikhilBookStore.Areas.Admin.Controllers
                 }
                 else
                 {
-                    _unitOfWork.Category.Update(category);
+                    _unitOfWork.Category.update(category);
                 }
                 _unitOfWork.Save();
                 return RedirectToAction(nameof(Index));
