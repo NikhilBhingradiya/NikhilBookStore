@@ -173,3 +173,6 @@ Starting the part 4
 1256
 
 1335 error
+
+1418
+There is already an object named 'AspNetRoles' in the database.
