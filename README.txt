@@ -289,6 +289,15 @@ tryig to run apllication but i received the error
 trying to do something
 
 2159
+
 Comite the repository
+
+2022-12-09
+1200
+Trying to solve the error
+
+1211
+Update the readme
+
 
 

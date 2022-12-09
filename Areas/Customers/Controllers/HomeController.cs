@@ -1,32 +1,33 @@
-﻿using Abp.Web.Mvc.Models;
+﻿using NikhilBook.DataAccess.Repository.IRepository;
+using NikhilBook.Models;
+using NikhilBook.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using NikhilBook.DataAccess.Repository;
-using NikhilBook.Models;
-using NikhilBookStore.Models;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using NikhilBook.DataAccess.Repository;
+using NikhilBookStore.Models.ViewModels;
 
-namespace NikhilBookStore.Area.Customer.Controllers
+namespace BulkyBook.Ares.Customer.Controllers
 {
-    [Area("Customers")]
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly IUnitOfWork _unitOfWork;
+        private readonly IUnitOfWork _unifOfWork;
 
-        public HomeController(ILogger<HomeController> logger, IUnitOfWork unitOfWork)
+        public HomeController(ILogger<HomeController> logger, IUnitOfWork unifOfWork)
         {
             _logger = logger;
-            _unitOfWork = unitOfWork;
+            _unifOfWork = unifOfWork;
         }
 
         public IActionResult Index()
         {
-            IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties: "Category,CoverType");
+            IEnumerable<Product> productList = _unifOfWork.Product.GetAll(includeProperties: "Category,CoverType");
             return View(productList);
         }
 
