@@ -240,6 +240,8 @@ comparing the Admin part
 Commite the repository
 
 1256
+Comparing the Buulybook with me and Doing all part Without the error 
+but received the while running the apllication
 Completeing the part 4
 *********************
 1315
@@ -278,3 +280,15 @@ i received  the error while running the application
 the ehich i received is exception hedling 
 1932
 commite the repository
+
+2045
+Starting the again to try solve the error
+
+2100
+tryig to run apllication but i received the error 
+trying to do something
+
+2159
+Comite the repository
+
+
