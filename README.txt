@@ -130,17 +130,9 @@ creating the new update
 
 
 ---
-20221119202620_AddDefaultIdentityMigration
+-----------------------------------------------------
+After not performing the the migration received error i am starting again the part 
 
-1532
-migration
-
-creating the category.cs 
-
-1740
-
-1755
-creating thr Isp and ip
 
 2022-07*12
 1200
@@ -152,27 +144,137 @@ creating thr Isp and ip
 1315 
 Starting the part 3(1)
 1316
+Creating the CoverTyope .cs method
+Add the id and the name
+
+1317
+Add covertype to thr Repository
+
+1318
+creating the CovertypeRepository class in repository
+
+1320
+creating the IcovertypeRepository class in irepository
+
+1322
+Ading the covertype in Uniteofwork and Iuniteofwork
+
+1323
+push the Covertype to the Databse
+
+
+1330
+.adding the Covertype to the Navbar
+
+1331
+Add the Covertype in the controoler with required Action method 
+
+1332
+Adding the Cover index View to the Database.
 
 1357
+Commite the repo
 1357
-Update 
+Update the redme 
+and copmmit the repo
 
 1402
 Starting the part 3-2
 
+1403
+Adding the PrductController to perform the Crud operation
+Adding the code 
 
+Commite the repo
 1424
+
+
+1430
+Modify the ProductVm 
+
+1438
+Modify the product controller
+
+
+1412
+commite the repo
+
+1414
+Add the index vies
+
+1420
+Add the new file called product.js
+
+1422
+modifying the Layout.cshtml product
+
+1423
+run the apllication
+
+
+1435
+commite the repo
+
 
 1435
 Starting the part 4
-14
+Starting the part .models no error
+first see the bully repo
+and compare with my code
+
+no erroe in 3 project
+Comite the repository
+
 
 2022-12-08
+1215
+
+Now nikhil book store 
+changing in wwwroot file
+
+1230
+comparing the Admin part
+
 1236
 
-1256
+Commite the repository
 
-1335 error
+1256
+Completeing the part 4
+*********************
+1315
+befor the completing the part 4 I received the error while performing the error
+But when i solve the error
+i am able to perform the migration after that
+i can the perform the migration
+
+1325
+20221119204817_AddCoverTypeToDb
+
+1330
+20221119204817_AddProductToDb
+
+1335 
+Update the repository
+
+**********************
+1400
+i am received the error while updatating the database
+
 
 1418
+Error which i received is while performing the data bvase is
 There is already an object named 'AspNetRoles' in the database.
+
+1418
+Commite the repo
+
+*********************
+
+1900
+i received  the error while running the application 
+
+1915
+the ehich i received is exception hedling 
+1932
+commite the repository
